@@ -1,8 +1,11 @@
 👋 Hi, I'm Amalraj R
 
 🎓 Fourth-year B.Tech Computer Science Engineering student
+
 🤖 Passionate about Machine Learning, Deep Learning, IoT, and Automation
+
 🕳️ Currently working on Pothole Detection System using YOLOv8
+
 🚀 Love building real-world systems using hardware + AI models
 
 🧠 About Me
