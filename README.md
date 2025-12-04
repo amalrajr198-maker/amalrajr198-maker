@@ -60,4 +60,5 @@ Automates lights, fans, devices using Arduino + sensors + relay modules. Include
 📧 Email: amalrajr198@gmail.com
 
 🌐 LinkedIn: https://www.linkedin.com/in/amalraj-r-351810375
+
 🐙 GitHub: github.com/amalrajr198-maker
