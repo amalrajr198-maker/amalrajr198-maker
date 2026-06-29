@@ -1,67 +1,32 @@
-👋 Hi, I'm Amalraj R
+# GitHub Profile
 
-🎓 Fourth-year B.Tech Computer Science Engineering student
+Hi, I'm **Amalraj R** 👋
 
-🤖 Passionate about Machine Learning, Deep Learning, IoT, and Automation
+I'm a Computer Science and Engineering graduate with a strong interest in software engineering, artificial intelligence, and full-stack web development.
 
-🕳️ Currently working on Pothole Detection System using YOLOv8
+💻 **Skills**
 
-🚀 Love building real-world systems using hardware + AI models
+* Python
+* HTML, CSS, JavaScript
+* MERN Stack (MongoDB, Express.js, React, Node.js)
+* Git & GitHub
+* REST APIs
+* SQL
 
-🧠 About Me
+🌱 **Currently Learning**
 
-Final-year B.Tech CSE student
+* Advanced Backend Development
+* Artificial Intelligence & Machine Learning
+* Data Structures & Algorithms
+* Cloud Computing
 
-Interested in computer vision, AI, and intelligent automation systems
+🚀 **Projects**
 
-Hands-on with both software + hardware projects
+* Real-time Forest Fire Detection using Deep Learning and IoT
+* Task Manager Web Application (MERN Stack)
 
-Always exploring new technologies and improving my skills
+🎯 **Career Goal**
+To build scalable software solutions, contribute to open-source projects, and grow as a Software Engineer with a focus on AI and modern web technologies.
 
-🛠️ Tech Stack
-AI / Machine Learning
-
-Python
-
-YOLOv8 (Ultralytics)
-
-OpenCV
-
-Basic ML models (classification, detection, prediction)
-
-IoT / Embedded Systems
-
-Arduino UNO
-
-Relay modules
-
-PIR, LDR, temperature sensors
-
-Basic circuit designing
-
-Programming & Tools
-
-Python, C, Java, JavaScript
-
-HTML, CSS
-
-Git & GitHub
-
-VS Code
-
-🌟 Major Projects
-🕳️ Pothole Detection System using YOLOv8
-
-A deep-learning based real-time pothole detection system using YOLOv8, capable of identifying potholes from images/videos for road safety and maintenance.
-
-🏫 Smart Classroom Automation System
-
-Automates lights, fans, devices using Arduino + sensors + relay modules. Includes energy saving features and automatic/manual control.
-
-📫 Contact
-
-📧 Email: amalrajr198@gmail.com
-
-🌐 LinkedIn: https://www.linkedin.com/in/amalraj-r-351810375
-
-🐙 GitHub: github.com/amalrajr198-maker
+📫 **Let's Connect**
+I'm always open to learning, collaborating, and contributing to innovative projects.
