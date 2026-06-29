@@ -23,7 +23,7 @@ I'm a Computer Science and Engineering graduate with a strong interest in softwa
 🚀 **Projects**
 
 * Real-time Forest Fire Detection using Deep Learning and IoT
-* Task Manager Web Application (MERN Stack)
+* Smart Classroom Automation System
 
 🎯 **Career Goal**
 To build scalable software solutions, contribute to open-source projects, and grow as a Software Engineer with a focus on AI and modern web technologies.
